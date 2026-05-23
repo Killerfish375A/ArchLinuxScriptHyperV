@@ -1,0 +1,5 @@
+USERNAME="user"
+USERPASS="1234"
+ROOTPASS="1234"
+DISK="/dev/sda"
+HOSTNAME="archvm"
