@@ -1,6 +1,8 @@
 #!/bin/bash
-
 set -e
+
+# Load config
+source ./config.sh
 
 # ==========================================
 # ARCH LINUX AUTO INSTALL (HYPER-V READY)
