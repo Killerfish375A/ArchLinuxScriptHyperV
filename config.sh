@@ -1,5 +1,11 @@
+# ===== ARCH INSTALL CONFIG =====
+
+DISK="/dev/sda"
+HOSTNAME="archvm"
+
 USERNAME="user"
 USERPASS="1234"
 ROOTPASS="1234"
-DISK="/dev/sda"
-HOSTNAME="archvm"
+
+TIMEZONE="Europe/Amsterdam"
+KEYMAP="us"
