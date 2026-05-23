@@ -1,5 +1,8 @@
 Downloaden in Arch Linux:
 
+curl -O https://raw.githubusercontent.com/user/repo/main/install_arch.sh
+curl -O https://raw.githubusercontent.com/user/repo/main/config.sh
+
 curl -O https://raw.githubusercontent.com/JOUWNAAM/arch-install/main/install_arch.sh
 of
 wget https://raw.githubusercontent.com/JOUWNAAM/arch-install/main/install_arch.sh
