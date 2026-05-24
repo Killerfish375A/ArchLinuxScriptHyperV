@@ -1,0 +1,8 @@
+DISK="/dev/sda"
+USERNAME="archie"
+USERPASS="arch123"
+ROOTPASS="root123"
+HOSTNAME="archie"
+TIMEZONE="Europe/Amsterdam"
+KEYMAP="us,intl"
+LOGFILE="/var/log/install.log"
